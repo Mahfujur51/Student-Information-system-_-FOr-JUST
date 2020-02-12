@@ -1,0 +1,23 @@
+
+a.paginate_button{
+	text-decoration: none;
+	color: black;
+	padding: 5px;
+	background-color:#EBEDEF;
+	margin: 1px;
+     border-radius: 5px;
+     box-shadow: 10px;
+
+}
+a.paginate_button:hover{
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+	background-color:#5F6368;
+	margin: 2px;
+    border-radius: 5px;
+
+}
+.dataTables_info{
+	margin-top: 10px;
+}

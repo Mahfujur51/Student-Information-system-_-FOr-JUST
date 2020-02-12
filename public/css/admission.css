@@ -1,0 +1,79 @@
+*{margin:0;padding:0;outline:0}
+body{background-color:white;font-family:arial;font-size:16px;line-height:20px;color:black;}
+.template{width:960px;margin:0 auto;background-color:white; color:black;}
+.clear{overflow:hidden;}
+
+.jony{
+  float: left;
+  width:115px;
+  margin-top: 20px;
+}
+.jony1{
+  float: right;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+.headersection{
+  color: #FFFFFF;
+  margin-bottom: 0;
+	height: 200px;
+}
+.logo{float:left;width:640px;}
+.jony{
+  width: 140px;
+}
+.jony img {
+  width: 120px;
+  height: 120px;
+  float: left;
+  border: 1px solid;
+  margin: 12px;
+  margin-right: 15px;
+}
+.jony1 img {
+  width: 75px;
+  border: 1px solid;
+  border-radius: 56px;
+  margin-top:12px;
+  margin-bottom: -25px;
+  margin-left:150px;
+}
+.logo h2 {
+  padding-top: 32px;
+  font-size: 20px;
+
+color: black;
+  margin-bottom:5px;
+}
+.logo p{
+	font-size: 16px;
+	color: black;
+	  margin-bottom:5px;
+
+}
+.class1{float:right;
+padding-top: 32px;
+margin-bottom: 20px;
+width: 320px;
+height: 1000px;
+
+}
+.sociallogo table{
+	margin-right: 100px;
+}
+.class2{
+	float: left;
+width: 500px;
+}
+.class2 p{
+	margin-bottom: 5px;
+}
+.class3{
+	float: right;
+	width: 200px;
+	margin-top: 25px;
+}
+.class3 p{
+	text-align: center;
+	margin-top: 5px;
+}
